@@ -1,0 +1,4 @@
+name = "NonStochasticNeuralNetworkTraining"
+uuid = "86a4e027-5417-4708-a53c-793e8ea97648"
+version = "0.1.0"
+authors = ["bogdankjastrzebski <bogdan.k.jastrzebski@gmail.com>"]
